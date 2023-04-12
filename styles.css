@@ -1,0 +1,31 @@
+* {
+    color:white;
+    background-color: #121212;
+}
+.index-body {
+    list-style-position:inside;
+    text-align: center;
+}
+
+.img-header {
+    width: auto;
+    height: 500px;
+}
+
+body {
+    text-align: center;
+}
+
+.content {
+    margin: 0 auto;
+    inline-size: 450px;
+    overflow-wrap: break-word;
+}
+ul { 
+	display: inline-block; 
+	text-align: left; 
+	}
+
+.text {
+    font-size: 20px;
+}
